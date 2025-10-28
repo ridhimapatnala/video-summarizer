@@ -1,0 +1,27 @@
+# Core ML libraries
+transformers>=4.41.0
+torch>=2.1.0
+timm>=0.9.16
+einops>=0.6.1
+flash_attn>=2.5.6
+
+# Image & video processing
+pillow
+opencv-python
+
+# Data handling
+pandas
+requests
+
+# UI / interface (if you want Gradio frontend later)
+gradio
+
+# Env management
+python-dotenv
+
+# Google Gemini SDK
+google-generativeai>=0.7.2
+
+# Optional visualization/debug
+matplotlib
+
