@@ -1,17 +1,16 @@
 
-## Installation
-1. **Clone the repository**:
-2. **Navigate to the project directory**:
-  ```bash
-  cd Surveillance_Video_Summarizer
-  ```
-3. **Install the required Python libraries**:
+## Setup
+**Clone the repository**:
+   ```bash
+   git remote add origin https://github.com/ridhimapatnala/video-summarizer.git
+   ```
+**Install the required Python libraries**:
 ```bash
 pip install -r requirements.txt
 ```
-## **Configuration**
+**Configuration**
 - Have API key stored in a .env file as required.
-## **Usage**
+**Usage**
 Run the frame extraction and logging to db.
 ```bash
 python analyzer_test.py
