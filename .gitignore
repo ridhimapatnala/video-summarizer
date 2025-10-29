@@ -23,5 +23,5 @@
 /.sudo_as_admin_successful
 .env
 db_query.py
-gemini_test.py
+config_test.py
 
